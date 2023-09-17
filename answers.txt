@@ -1,1 +1,3 @@
+What is the difference between a merge and a rebase?
 
+A merge and a rebase are similar in that they are both ways of combining two branches. The difference is that a merge combines the changes of two branches into a single new commit, while a rebase brings the changes from one branch into another and adds the changes as separate new commits. The logs for rebasing are linear while the commit history for merging is more branch-like and remains complete.
